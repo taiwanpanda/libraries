@@ -1,3 +1,6 @@
+--!optimize 2
+--!native
+
 local bigfloat = {
 	__metatable = true
 }
