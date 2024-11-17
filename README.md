@@ -1,2 +1,2 @@
 # libraries
-My libraries, mostly incompletely
+My libraries, mostly incomplete
