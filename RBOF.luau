@@ -1,3 +1,4 @@
+--RBOF superscedes RSON
 local BACK_REFERENCING_ENABLED = false --Enabling will reduce output size at the cost of increased computation time and if compressed, lower compression ratios.
 
 local APIDump = require(script.API_Dump)
